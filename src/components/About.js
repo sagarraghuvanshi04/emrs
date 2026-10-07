@@ -34,7 +34,7 @@ export default function About() {
             }}>
               <img
                 src="/images/projects/company.png"
-                alt="Company / Team Photo"
+                alt="Company team"
                 style={{ width: '100%', height: 'auto', objectFit: 'contain', objectPosition: 'center', display: 'block', background: '#f7f8fa' }}
               />
               <div style={{

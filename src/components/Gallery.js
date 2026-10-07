@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import { X, ZoomIn } from 'lucide-react';
-import { galleryCategories } from '../data/siteData';
 
 const galleryItems = [
   { id: 1,  src: '/images/projects/food-grain.png',         category: 'Food Supply',      caption: 'Ration & Food Items — Eklavya Adarsh Awasiya Vidyalaya, Jaitpur' },

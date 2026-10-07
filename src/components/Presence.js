@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { MapPin, CheckCircle } from 'lucide-react';
-import { institutions } from '../data/siteData';
+
 
 const states = [
   {
